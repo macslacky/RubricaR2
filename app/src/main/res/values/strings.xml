@@ -1,0 +1,21 @@
+<resources>
+    <!--string name="app_name">RubricaR2</string-->
+    <string name="urlWeb">https://www.ribosoft.info/addressbook/</string>
+    <string name="urlPost">adressbook.php</string>
+
+    <string name="addressbook">Adress Book</string>
+
+    <string name="txtId">ID :</string>
+    <string name="txtNome">Nome :</string>
+    <string name="txtCognome">Cognome :</string>
+    <string name="txtTelefono">Telefono :</string>
+    <string name="btnInsert">Aggiungi</string>
+
+    <string name="btnAdressBook">Rubrica</string>
+    <string name="btnUpDate">Salva</string>
+    <string name="btnDelete">Cancella</string>
+
+    <!-- Main Menu -->
+    <string name="aggiungi">Aggiungi Nominativo</string>
+    <string name="info">Informazione sull"app</string>
+</resources>
